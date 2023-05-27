@@ -1,7 +1,6 @@
 ### Sou Daniel Moliari, Desenvolvedor Front-End
 <div>
   <a href="https://github.com/DanielMoliari">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielMoliari&theme=dark&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMoliari&layout=compact&langs_count=16&theme=dark&show_icons=true" />
 </div>
  
